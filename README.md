@@ -1,5 +1,5 @@
 # .me
-🔭 I’m currently working on a robotic project based on a 6 wheeled rover<br>🌱 I’m currently learning VBA and advanced level macros in Excel<br>💬 Ask me about ML and AI<br>⚡ Fun fact I'm a bit of a library mouse
+🔭 I’m currently working on a robotic project based on a 6 wheeled rover<br>🌱 I’m currently learning VBA and advanced level macros in Excel
 
 
 # 💻 Tech Stack:
