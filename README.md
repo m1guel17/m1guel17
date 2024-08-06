@@ -1,7 +1,7 @@
 # Hi there, I'm Miguel Esteban Flores Sierra 👋
-### Freelance back-end Python engineer
+### Freelance Software Developer
 
-I am a passionate **Software Developer** and **Electronics Engineer** from Lima, Peru. With expertise in Python, C#, Java, C++, SQL, and Linux, I have over 4 years of experience in software and hardware design, specializing in innovative and impactful solutions for complex environments.
+I am a software passionate and **Electronics Engineer** from Lima, Peru. With expertise in Python, Java, C#, C++, SQL, and Linux, I have over 4 years of experience in software and hardware design, specializing in innovative and impactful solutions for complex environments.
 
 #### About Me
 - 🎓 Graduated from **Universidad Nacional Mayor de San Marcos**.
