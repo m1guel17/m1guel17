@@ -107,6 +107,4 @@ graph LR;
 ```
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m1guel17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m1guel17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1guel17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=m1guel17&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
