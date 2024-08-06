@@ -24,7 +24,7 @@ I am a passionate **Software Developer** and **Electronics Engineer** from Lima,
 ## Bookstore_Flask (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Bookstore_Flask?label=Bookstore_Flask&style=social)](https://github.com/m1guel17/Bookstore_Flask)
 Simple bookstore web application built using Flask, following a layered architecture design pattern. The application is structured to separate concerns and improve maintainability by organizing code into different layers.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" width="720">
+<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" height="360">
 </p>
 
 ## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Whatsapp-Meta?label=Chatbot-Whatsapp-Meta&style=social)](https://github.com/m1guel17/Chatbot-Whatsapp-Meta)
@@ -75,7 +75,7 @@ graph TD
 ## Quadrupedal_Robot (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Quadrupedal_Robot?label=Quadrupedal_Robot&style=social)](https://github.com/m1guel17/Quadrupedal_Robot)
 This project aims to create a quadrupedal robot that can be controlled using a Raspberry Pi and ESP32 microcontrollers. The robot will perform basic movements such as walking, turning, and stopping, and can be further extended with additional functionalities.
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fb4d6924-da4f-4aa2-9c81-be8eec2a9ae3" width="480">
+<img src="https://github.com/user-attachments/assets/fb4d6924-da4f-4aa2-9c81-be8eec2a9ae3" height="360">
 </p>
 
 ## ROS-node [![Roadmap](https://img.shields.io/github/stars/m1guel17/ROS-node?label=ROS-node&style=social)](https://github.com/m1guel17/ROS-node)
