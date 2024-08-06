@@ -14,7 +14,7 @@ I am a software passionate and **Electronics Engineer** from Lima, Peru. With ex
 - 🖥️ **Linux Systems Administration**
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-007ACC?style=plastic&logo=oracle&logoColor=white)
 
 # How to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-esteban-flores-sierra)
@@ -35,48 +35,9 @@ Simple bookstore web application built using Flask, following a layered architec
 
 ## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Whatsapp-Meta?label=Chatbot-Whatsapp-Meta&style=social)](https://github.com/m1guel17/Chatbot-Whatsapp-Meta)
 Python script developed to test the functionality of a WhatsApp chatbot using Meta API and WhatsApp Business. The script is developed in Visual Studio Code and utilizes the Meta API for interacting with a WhatsApp Business test account.
-```mermaid
-graph TD
-  A["Start"]
-  B["Initialize Flask app"]
-  C["Configure SQLite database"]
-  D["Define Log model"]
-  E["Create tables if not exist"]
-  F["Define ordenar_por_fecha_y_hora function"]
-  G["Define index route"]
-  H["Retrieve logs from DB"]
-  I["Order logs by date"]
-  J["Render index.html"]
-  K["Define webhook route"]
-  L{Request method}
-  M["GET: Verify token"]
-  N["POST: Process messages"]
-  O["Send response"]
-  P["Receive and parse JSON"]
-  Q["Check message type"]
-  R["Interactive message"]
-  S["Text message"]
-  T["Send WhatsApp message"]
-  U["Log message to DB"]
-  V["Error handling"]
-  W["End"]
-
-  A --> B --> C --> D --> E
-  E --> F --> G
-  G --> H --> I --> J
-  G --> W
-  K --> L
-  L -->|"GET"| M --> O
-  L -->|"POST"| N
-  N --> P --> Q
-  Q -->|"Interactive"| R --> T
-  R --> U
-  Q -->|"Text"| S --> T
-  S --> U
-  N --> V
-  O --> W
-  V --> W
-```
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9a815c0f-44dd-44f0-8f8e-633799482c94" height="360">
+</p>
 
 ## Quadrupedal_Robot (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Quadrupedal_Robot?label=Quadrupedal_Robot&style=social)](https://github.com/m1guel17/Quadrupedal_Robot)
 This project aims to create a quadrupedal robot that can be controlled using a Raspberry Pi and ESP32 microcontrollers. The robot will perform basic movements such as walking, turning, and stopping, and can be further extended with additional functionalities.
