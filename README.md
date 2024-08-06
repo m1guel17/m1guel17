@@ -8,7 +8,7 @@ I am a software passionate and **Electronics Engineer** from Lima, Peru. With ex
 - 💼 Currently a **Software Analyst at PCI Energy Solutions**, ensuring optimal user experiences and contributing to the growth and innovation of our software offerings.
 - 🛠️ Experienced in **multidisciplinary projects**, seamlessly integrating electronics with mechanical designs, primarily for robotics applications.
 
-#### Skills 🔧
+#### Skills
 - 🐍 **Python, Java, C#, C++, SQL**
 - 🛠️ **Data Analytics**, **Machine Learning**, and **Cybersecurity**
 - 🖥️ **Linux Systems Administration**
