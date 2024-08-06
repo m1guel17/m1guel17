@@ -21,6 +21,12 @@ I am a passionate **Software Developer** and **Electronics Engineer** from Lima,
 </br>
 
 # Algunos proyectos desarrollados
+## Flask E-commerce Web Application (_under development_ & private for now)
+This project is a Flask-based web application designed to facilitate user registration, login, and management of an e-commerce shopping cart. It supports basic user authentication, order submission, and real-time file editing, making it a versatile solution for small to medium-sized online stores. Submit orders via a submit route, generating a WhatsApp message with the order summary.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" height="360">
+</p>
+
 ## Bookstore_Flask (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Bookstore_Flask?label=Bookstore_Flask&style=social)](https://github.com/m1guel17/Bookstore_Flask)
 Simple bookstore web application built using Flask, following a layered architecture design pattern. The application is structured to separate concerns and improve maintainability by organizing code into different layers.
 <p align="center">
