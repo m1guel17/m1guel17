@@ -22,9 +22,6 @@ I am a passionate **Software Developer** and **Electronics Engineer** from Lima,
 
 # Some projects developed
 ## Flask E-commerce Web Application (_under development_ & private for now)
-This is a Flask web application designed to manage user authentication, product selection, and order processing. The application allows users to register, log in, and place orders. The orders are then stored in a database, and users can view, edit, or download relevant files. 
-
-
 This project is a Flask-based web application designed for an e-commerce. It has a shopping cart, cart items editing and supports order submission via a `/submit` route, the application also provides an integration with WhatsApp for order confirmation with end user. It has real-time file editing feature (only visible with developer credentials), making it a versatile solution for small to medium-sized online stores. 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" height="360">
