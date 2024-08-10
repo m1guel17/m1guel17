@@ -22,8 +22,8 @@ This project is a Flask-based web application designed for an e-commerce. It has
 
 ## Bookstore_Flask (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Bookstore_Flask?label=Bookstore_Flask&style=social)](https://github.com/m1guel17/Bookstore_Flask)
 Simple bookstore web application built using Flask, following a layered architecture design pattern. The application is structured to separate concerns and improve maintainability by organizing code into different layers.
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" height="360">
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" style="width:100%; height:auto;">
 </p>
 
 ## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Whatsapp-Meta?label=Chatbot-Whatsapp-Meta&style=social)](https://github.com/m1guel17/Chatbot-Whatsapp-Meta)
