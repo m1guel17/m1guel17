@@ -33,7 +33,8 @@ flowchart TD
   AppInit["App Initialization"]
   ConfigDB["Configure SQLite Database"]
   CreateTable["Create Log Table"]
-  RouteIndex["Route: / (index)"]
+  CreateRoutes["Generate Routes"]
+  RouteIndex["Route: /index"]
   FetchRecords["Fetch Records from DB"]
   SortRecords["Sort Records by Date"]
   RenderIndex["Render index.html"]
@@ -42,15 +43,17 @@ flowchart TD
   ProcessMessages["Process Incoming Messages"]
   HandleTextMessage["Handle Text Message"]
   HandleInteractiveMessage["Handle Interactive Message"]
-  LogMessage["Log Message to DB"]
+  LogMessage["Log User Message to DB"]
   SendMessage["Send WhatsApp Messages"]
   HandleErrors["Handle Errors"]
-  SendResponse["Send Response"]
+  FetchResponse["Fetch Response from Flow"]
+  FinalUser["Final User"]
 
   AppInit --> ConfigDB
   ConfigDB --> CreateTable
-  CreateTable --> RouteIndex
-  CreateTable --> RouteWebhook
+  CreateTable --> CreateRoutes
+  CreateRoutes --> RouteIndex
+  CreateRoutes --> RouteWebhook
   RouteIndex --> FetchRecords
   FetchRecords --> SortRecords
   SortRecords --> RenderIndex
@@ -60,10 +63,13 @@ flowchart TD
   ProcessMessages --> HandleInteractiveMessage
   HandleTextMessage --> LogMessage
   HandleInteractiveMessage --> LogMessage
-  LogMessage --> SendMessage
-  SendMessage --> SendResponse
+  HandleTextMessage --> FetchResponse
+  HandleInteractiveMessage --> FetchResponse
+  LogMessage --> RouteIndex
+  FetchResponse --> SendMessage
   ProcessMessages --> HandleErrors
-  HandleErrors --> SendResponse
+  HandleErrors --> SendMessage
+  SendMessage --> FinalUser
 ```
 
 ## Quadrupedal_Robot (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Quadrupedal_Robot?label=Quadrupedal_Robot&style=social)](https://github.com/m1guel17/Quadrupedal_Robot)
