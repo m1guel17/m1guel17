@@ -28,9 +28,43 @@ Basic web application for a bookstore was developed using Flask, applying a laye
 
 ## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Whatsapp-Meta?label=Chatbot-Whatsapp-Meta&style=social)](https://github.com/m1guel17/Chatbot-Whatsapp-Meta)
 This Python script was developed as part of a paid project to test and demonstrate the basic functionality of a WhatsApp chatbot using the Meta API. It interacts with a WhatsApp Business test account to handle messages and automate responses. Built in Visual Studio Code, this project provides a simple and clear starting point for integrating WhatsApp Business with the Meta API.
-<p align="center" style="width:100%; max-width:720px; margin:auto;">
-<img src="https://github.com/user-attachments/assets/9a815c0f-44dd-44f0-8f8e-633799482c94" style="width:100%; height:auto;">
-</p>
+```mermaid
+flowchart TD
+  AppInit["App Initialization"]
+  ConfigDB["Configure SQLite Database"]
+  CreateTable["Create Log Table"]
+  RouteIndex["Route: / (index)"]
+  FetchRecords["Fetch Records from DB"]
+  SortRecords["Sort Records by Date"]
+  RenderIndex["Render index.html"]
+  RouteWebhook["Route: /webhook"]
+  VerifyToken["Verify Token"]
+  ProcessMessages["Process Incoming Messages"]
+  HandleTextMessage["Handle Text Message"]
+  HandleInteractiveMessage["Handle Interactive Message"]
+  LogMessage["Log Message to DB"]
+  SendMessage["Send WhatsApp Messages"]
+  HandleErrors["Handle Errors"]
+  SendResponse["Send Response"]
+
+  AppInit --> ConfigDB
+  ConfigDB --> CreateTable
+  CreateTable --> RouteIndex
+  CreateTable --> RouteWebhook
+  RouteIndex --> FetchRecords
+  FetchRecords --> SortRecords
+  SortRecords --> RenderIndex
+  RouteWebhook --> VerifyToken
+  VerifyToken --> ProcessMessages
+  ProcessMessages --> HandleTextMessage
+  ProcessMessages --> HandleInteractiveMessage
+  HandleTextMessage --> LogMessage
+  HandleInteractiveMessage --> LogMessage
+  LogMessage --> SendMessage
+  SendMessage --> SendResponse
+  ProcessMessages --> HandleErrors
+  HandleErrors --> SendResponse
+```
 
 ## Quadrupedal_Robot (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Quadrupedal_Robot?label=Quadrupedal_Robot&style=social)](https://github.com/m1guel17/Quadrupedal_Robot)
 This is a robotic project that aims to create a quadrupedal robot that can be controlled using a Raspberry Pi and ESP32 microcontroller. The robot will perform basic movements such as walking, turning, and stopping, and can be further extended with additional functionalities.
