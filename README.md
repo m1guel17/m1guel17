@@ -41,8 +41,7 @@ flowchart TD
   RouteWebhook["Route: /webhook"]
   VerifyToken["Verify Token"]
   ProcessMessages["Process Incoming Messages"]
-  HandleTextMessage["Handle Text Message"]
-  HandleInteractiveMessage["Handle Interactive Message"]
+  HandleTextMessage["Handle Text/Interactive Message"]
   LogMessage["Log User Message to DB"]
   SendMessage["Send WhatsApp Messages"]
   HandleErrors["Handle Errors"]
@@ -60,11 +59,8 @@ flowchart TD
   RouteWebhook --> VerifyToken
   VerifyToken --> ProcessMessages
   ProcessMessages --> HandleTextMessage
-  ProcessMessages --> HandleInteractiveMessage
   HandleTextMessage --> LogMessage
-  HandleInteractiveMessage --> LogMessage
   HandleTextMessage --> FetchResponse
-  HandleInteractiveMessage --> FetchResponse
   LogMessage --> RouteIndex
   FetchResponse --> SendMessage
   ProcessMessages --> HandleErrors
