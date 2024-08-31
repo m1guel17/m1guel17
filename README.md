@@ -26,7 +26,7 @@ Basic web application for a bookstore was developed using Flask, applying a laye
 <img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" style="width:100%; height:auto;">
 </p>
 
-## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Whatsapp-Meta?label=Chatbot-Whatsapp-Meta&style=social)](https://github.com/m1guel17/Chatbot-Whatsapp-Meta)
+## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Demo?label=Chatbot-Demo&style=social)](https://github.com/m1guel17/Chatbot-Demo)
 This Python script was developed as part of a paid project to test and demonstrate the basic functionality of a WhatsApp chatbot using the Meta API. It interacts with a WhatsApp Business test account to handle messages and automate responses. Built in Visual Studio Code, this project provides a simple and clear starting point for integrating WhatsApp Business with the Meta API.
 ```mermaid
 flowchart TD
