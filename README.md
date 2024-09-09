@@ -13,19 +13,7 @@ I am a software passionate and **Electronics Engineer** from Lima, Peru. With ex
 - 🛠️ **Data Analytics**, **Machine Learning**, and **Cybersecurity**
 - 🖥️ **Linux Systems Administration**
 
-# 🚀 Some projects developed
-## Flask E-commerce Web Application (_under development_ & private for now)
-A Flask-based e-commerce app with a shopping cart, item editing, and order submission via /submit. It integrates with WhatsApp for order confirmations and offers real-time file editing for developers, making it ideal for small to medium-sized online stores.
-<p align="center" style="width:100%; max-width:720px; margin:auto;">
-<img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" style="width:100%; height:auto;">
-</p>
-
-## Bookstore_Flask (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Bookstore_Flask?label=Bookstore_Flask&style=social)](https://github.com/m1guel17/Bookstore_Flask)
-Basic web application for a bookstore was developed using Flask, applying a layered architecture design pattern. The design focuses on separating concerns and improving maintainability by organizing the code into distinct layers.
-<p align="center" style="width:100%; max-width:720px; margin:auto;">
-<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" style="width:100%; height:auto;">
-</p>
-
+# 🚀 Projects developed
 ## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Demo?label=Chatbot-Demo&style=social)](https://github.com/m1guel17/Chatbot-Demo)
 This Python script was developed as part of a paid project to test and demonstrate the basic functionality of a WhatsApp chatbot using the Meta API. It interacts with a WhatsApp Business test account to handle messages and automate responses. Built in Visual Studio Code, this project provides a simple and clear starting point for integrating WhatsApp Business with the Meta API.
 ```mermaid
@@ -67,6 +55,18 @@ flowchart TD
   HandleErrors --> SendMessage
   SendMessage --> FinalUser
 ```
+
+## Flask E-commerce Web Application (_under development_ & private for now)
+A Flask-based e-commerce app with a shopping cart, item editing, and order submission via /submit. It integrates with WhatsApp for order confirmations and offers real-time file editing for developers, making it ideal for small to medium-sized online stores.
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" style="width:100%; height:auto;">
+</p>
+
+## Bookstore_Flask (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Bookstore_Flask?label=Bookstore_Flask&style=social)](https://github.com/m1guel17/Bookstore_Flask)
+Basic web application for a bookstore was developed using Flask, applying a layered architecture design pattern. The design focuses on separating concerns and improving maintainability by organizing the code into distinct layers.
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://github.com/user-attachments/assets/c6e89c40-8455-46d6-ae21-a6c64c440c30" style="width:100%; height:auto;">
+</p>
 
 ## Quadrupedal_Robot (_under development_) [![Roadmap](https://img.shields.io/github/stars/m1guel17/Quadrupedal_Robot?label=Quadrupedal_Robot&style=social)](https://github.com/m1guel17/Quadrupedal_Robot)
 This is a robotic project that aims to create a quadrupedal robot that can be controlled using a Raspberry Pi and ESP32 microcontroller. The robot will perform basic movements such as walking, turning, and stopping, and can be further extended with additional functionalities.
