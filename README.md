@@ -14,7 +14,7 @@ I am a software passionate and **Electronics Engineer** from Lima, Peru. With ex
 - 🖥️ **Linux Systems Administration**
 
 # 🚀 Projects developed
-## Chatbot-Whatsapp-Meta [![Roadmap](https://img.shields.io/github/stars/m1guel17/Chatbot-Demo?label=Chatbot-Demo&style=social)](https://github.com/m1guel17/Chatbot-Demo)
+## Demo-Whatsapp-Chatbot [![Roadmap](https://img.shields.io/github/stars/m1guel17/Demo-Whatsapp-Chatbot?label=Chatbot-Demo&style=social)](https://github.com/m1guel17/Demo-Whatsapp-Chatbot)
 This Python script was developed as part of a paid project to test and demonstrate the basic functionality of a WhatsApp chatbot using the Meta API. It interacts with a WhatsApp Business test account to handle messages and automate responses. Built in Visual Studio Code, this project provides a simple and clear starting point for integrating WhatsApp Business with the Meta API.
 ```mermaid
 flowchart TD
