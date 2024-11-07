@@ -1,12 +1,12 @@
 # Hi there, I'm Miguel Esteban Flores Sierra 👋
 ### Freelance Software Developer 👨‍💻
 
-I am a software passionate and **Electronics Engineer** from Lima, Peru. With expertise in Python, Java, C#, C++, SQL, and Linux, I have over 4 years of experience in software and hardware design, specializing in innovative and impactful solutions for complex environments.
+I am a software passionate and **Electronics Engineer** from Lima, Peru. I have over 4 years of experience in software and hardware design, specializing in innovative and impactful solutions for complex environments.
 
 #### About Me 🙋‍♂️
 - 🎓 Graduated from **Universidad Nacional Mayor de San Marcos**.
-- 💼 Currently a **Software Analyst at PCI Energy Solutions**, ensuring optimal user experiences and contributing to the growth and innovation of our software offerings.
-- 🛠️ Experienced in **multidisciplinary projects**, seamlessly integrating electronics with mechanical designs, primarily for robotics applications.
+- 💼 Currently a **Software Analyst** in an Energy Software Company, that provides tailored cloud-first solutions for energy companies worldwide.
+- 🛠️ I'm excited to collaborate on open-source projects.
 
 
 # 💻 Tech Stack:
