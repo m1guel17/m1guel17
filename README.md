@@ -1,7 +1,7 @@
 # Hi there, I'm Miguel Esteban Flores Sierra 👋
 ### Freelance Software Developer 👨‍💻
 
-I am a software passionate and **Electronics Engineer** from Lima, Peru. I have over 4 years of experience in software and hardware design, specializing in innovative and impactful solutions for complex environments.
+I am a software developer with 3 years of experience in software development and design. I specialize in creating efficient and scalable solutions. With my background in consulting and advisory I bring a unique perspective to my software projects, understanding the critical need for accuracy, reliability, and performance in complex systems.
 
 #### About Me 🙋‍♂️
 - 🎓 Graduated from **Universidad Nacional Mayor de San Marcos**.
