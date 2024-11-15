@@ -46,6 +46,11 @@ A Flask-based e-commerce app with a shopping cart, item editing, and order submi
 <img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" style="width:100%; height:auto;">
 </p>
 
+## python_RESTful_API (_under development) [![Roadmap](https://img.shields.io/github/stars/m1guel17/python_RESTful_API?label=RESTful_API&style=social)](https://github.com/m1guel17/python_RESTful_API)
+This API allows dynamic querying, insertion, and updating of records across multiple database tables based on the request payload. By specifying the table name and relevant data in the payload, users can interact with specific tables using a single endpoint.
+<p align="center" style="width:100%; max-width:720px; margin:auto;">
+<img src="https://github.com/user-attachments/assets/e4360705-0310-4934-bdd9-b1cc8986f062" style="width:100%; height:auto;">
+</p>
 
 # 📊 GitHub Stats:
 <table><tr><td valign="top" width="50%">
