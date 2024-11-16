@@ -58,11 +58,11 @@ This API allows dynamic querying, insertion, and updating of records across mult
 This is my personal tech stack designed to be modular with scalable foundation for developing a wide range of on-cloud SaaS products using Hexagonal Architecture (Ports and Adapters) and Layered (Clean) Architecture principles. 
 
 # 📊 GitHub Stats:
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="51.2%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=m1guel17&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1guel17&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
