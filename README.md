@@ -3,12 +3,6 @@
 
 I am a software developer with 3 years of experience in software development and design. I specialize in creating efficient and scalable solutions. With my background in consulting and advisory I bring a unique perspective to my software projects, understanding the critical need for accuracy, reliability, and performance in complex systems.
 
-#### About Me 🙋‍♂️
-- 🎓 Graduated from **Universidad Nacional Mayor de San Marcos**.
-- 💼 Currently a **Software Analyst** in an Energy Software Company, that provides tailored cloud-first solutions for energy companies worldwide.
-- 🛠️ I'm excited to collaborate on open-source projects.
-
-
 # 💻 Technologies Stack:
 <!-- 
 <div style="display: flex; align-items: flex-start;">
