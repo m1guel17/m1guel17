@@ -60,7 +60,7 @@ This API allows dynamic querying, insertion, and updating of records across mult
 </p>
 
 # Personal Tech Stack [![Roadmap](https://img.shields.io/github/stars/m1guel17/Tech_Stack?label=Tech_Stack&style=social)](https://github.com/m1guel17/Tech_Stack)
-This is my personal tech stack designed to be modular with scalable foundation for developing a wide range of on-cloud SaaS products using Hexagonal Architecture (Ports and Adapters) and Layered (Clean) Architecture principles. 
+This is my personal tech stack designed to be modular with scalable foundation for developing a wide range of on-cloud SaaS products using Hexagonal Architecture (Adapters) and Layered (Clean) Architecture principles. 
 
 # 📊 GitHub Stats:
 <table><tr><td valign="top" width="51.2%">
