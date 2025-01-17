@@ -59,7 +59,7 @@ This API allows dynamic querying, insertion, and updating of records across mult
 <img src="https://github.com/user-attachments/assets/e4360705-0310-4934-bdd9-b1cc8986f062" style="width:100%; height:auto;">
 </p>
 
-# Hexagonal Architecture Template [![Roadmap](https://img.shields.io/github/stars/m1guel17/hexagonal_architecture_template?label=hexagonal_architecture_template&style=social)](https://github.com/m1guel17/hexagonal_architecture_template)
+# Hexagonal Architecture Template [![Roadmap](https://img.shields.io/github/stars/m1guel17/hexagonal_architecture_template?label=hexagonal_Architecture_Template&style=social)](https://github.com/m1guel17/hexagonal_architecture_template)
 This repo is designed to jump-start your next Software as a Service (SaaS) product using Hexagonal Architecture principles and Layered Architecture principles (In progress)
 <p align="center" style="width:100%; max-width:720px; margin:auto;">
 <!--<img src="https://github.com/user-attachments/assets/75728ce2-49e3-41ad-8bb2-1aa616e5c38f" style="width:100%; height:auto;">-->
