@@ -53,9 +53,11 @@ A Django-based system that streamlines purchasing and invoicing with product, su
 <img src="https://github.com/user-attachments/assets/f784b150-85be-46f0-9036-8ac3749f33a0" style="width:100%; height:auto;">
 
 ## Flask E-commerce Web Application
-A Flask-based e-commerce app with a shopping cart, item editing, and order submission via /submit. It integrates with WhatsApp for order confirmations and offers real-time file editing for developers, making it ideal for small to medium-sized online stores.
+> [!NOTE]
+> This was a commissioned project: A Flask-based e-commerce app with a shopping cart, item editing, and order submission via /submit. It integrates with WhatsApp for order confirmations. <!-- and offers real-time file editing for developers, making it ideal for small to medium-sized online stores. -->
+>
 <p align="center" style="width:100%; max-width:720px; margin:auto;">
-<img src="https://github.com/user-attachments/assets/aa02f88f-a930-406d-b7cf-5971fe14931b" style="width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/c3861627-41a7-4d53-bc43-e30f18f9242e" style="width:100%; height:auto;">
 </p>
 
 ## API RESTful [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/python_RESTful_API)
