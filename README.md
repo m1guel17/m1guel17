@@ -50,7 +50,9 @@ This repository hosts a professionally developed Python chatbot for seamless int
 ## Purchase and Invoicing System [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/django_system)
 A Django-based system that streamlines purchasing and invoicing with product, supplier, and client management. It integrates user authentication, REST APIs, and a central admin panel to handle transactions and track stock in real-time.
 <img src="https://github.com/user-attachments/assets/d3deff11-6637-4bde-83cf-8fb77a8e2781" style="width:100%; height:auto;">
+<!--
 <img src="https://github.com/user-attachments/assets/f784b150-85be-46f0-9036-8ac3749f33a0" style="width:100%; height:auto;">
+-->
 
 ## Flask E-commerce Web Application
 > [!NOTE]
