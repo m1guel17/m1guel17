@@ -42,11 +42,11 @@ I am a software developer with 3 years of experience in software development and
 <br/>  
 
 # 🚀 Projects developed
-## Whatsapp Chatbot V3 [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)
+## Whatsapp Chatbot [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)
 > [!NOTE]
 > Commissioned project
 >
-​This repository contains a Python-based chatbot designed for integration with the WhatsApp Business API, facilitating automated messaging. The chatbot features a modular architecture, allowing for scalability and customization to meet enterprise requirements. It includes functionalities such as seamless message handling and a structured project layout for efficient deployment. Currently, the conversation flow is managed through a JSON file, with plans to support configuration via block diagrams in the frontend in future updates.
+​This repository contains a Flask-based chatbot designed for integration with the WhatsApp Business API, facilitating automated messaging. The chatbot features a modular architecture, allowing for scalability and customization to meet enterprise requirements. It includes functionalities such as seamless message handling and a structured project layout for efficient deployment. Currently, the conversation flow is managed through a JSON file, with plans to support configuration via block diagrams in the frontend in future updates.
 <!--
 <img src="https://github.com/user-attachments/assets/5fc7f5bd-e9d1-4e7d-8826-7a55a1d36ad1" style="width:100%; height:auto;">
 <img src="https://github.com/user-attachments/assets/dfbf8db0-e1ce-4a62-b898-9e1293e49006" style="width:100%; height:auto;">
