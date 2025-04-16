@@ -80,7 +80,6 @@ A Flask-based e-commerce app with a shopping cart, item editing, and order submi
 <!--
 ## API RESTful [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/python_RESTful_API)
 This API allows dynamic querying, insertion, and updating of records across multiple database tables based on the request payload. By specifying the table name and relevant data in the payload, users can interact with specific tables using a single endpoint.
-
 # Flask Tech Stack [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Tech_Stack)
 This is my personal tech stack designed to be modular with scalable foundation for developing a wide range of on-cloud SaaS products using Layered (Clean) Architecture principles. 
 -->
