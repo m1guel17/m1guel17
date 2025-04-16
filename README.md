@@ -60,7 +60,9 @@ I am a software developer with 3 years of experience in software development and
 > [!NOTE]
 > Commissioned project
 >
-​This Django-based Insurance CRM and Policy Management web application is a robust, enterprise-grade solution tailored for mid-to-large insurance brokerages and solo brokers seeking a reliable, scalable platform. It centralizes policy lifecycle management, automates client communications via email and WhatsApp, and integrates lead tracking, claims handling, and document management into a unified, intuitive interface. Designed for operational resilience, the platform incorporates automated workflows, real-time alerts, and customizable dashboards to streamline daily operations. Its modular architecture allows for easy integration with third-party APIs and legacy systems, ensuring adaptability to evolving business needs. 
+​This Django-based Insurance CRM and Policy Management web application is a robust, enterprise-grade solution tailored for mid-to-large insurance brokerages and solo brokers seeking a reliable, scalable platform. It centralizes policy lifecycle management, automates client communications via email and WhatsApp, and integrates lead tracking, claims handling, and document management into a unified, intuitive interface. Designed for operational resilience, the platform incorporates automated workflows, real-time alerts, and customizable dashboards to streamline daily operations. Its modular architecture allows for easy integration with third-party APIs and legacy systems, ensuring adaptability to evolving business needs.
+<!--
+-->
 <img src="https://github.com/user-attachments/assets/7bfaea5d-5d74-415f-aca8-b899ce65d660" style="width:100%; height:auto;">
 
 ## Purchase and Invoicing System [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/django_system)
