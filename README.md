@@ -42,7 +42,7 @@ I am a software developer with 3 years of experience in software development and
 <br/>  
 
 # 🚀 Projects developed
-## Whatsapp Chatbot [![Roadmap](https://img.shields.io/badge/Link2repo_Flask-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)
+## Whatsapp Chatbot [![Roadmap](https://img.shields.io/badge/Link2repo_Flask-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)  [![Roadmap](https://img.shields.io/badge/Link2repo_Django-white?logo=github&logoColor=grey)](https://github.com/m1guel17/WhatsApp_Chatbot)
 > [!NOTE]
 > Commissioned project
 >
