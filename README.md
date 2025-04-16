@@ -46,7 +46,7 @@ I am a software developer with 3 years of experience in software development and
 > [!NOTE]
 > Commissioned project
 >
-​This repository contains a Flask-based chatbot designed for integration with the WhatsApp Business API, facilitating automated messaging. The chatbot features a modular architecture, allowing for scalability and customization to meet enterprise requirements. It includes functionalities such as seamless message handling and a structured project layout for efficient deployment. Currently, the conversation flow is managed through a JSON file, with plans to support configuration via block diagrams in the frontend in future updates.
+​These repositories contain a Flask-based and a Django-based chatbot designed for integration with the WhatsApp Business API, facilitating automated messaging. The chatbots features a clean architecture pattern, allowing for scalability and customization to meet enterprise requirements. It includes functionalities such as seamless message handling and a structured project layout for efficient deployment. The conversation flow is managed through a JSON file, with plans to support configuration via block diagrams in the frontend in future updates.
 <!--
 <img src="https://github.com/user-attachments/assets/5fc7f5bd-e9d1-4e7d-8826-7a55a1d36ad1" style="width:100%; height:auto;">
 <img src="https://github.com/user-attachments/assets/dfbf8db0-e1ce-4a62-b898-9e1293e49006" style="width:100%; height:auto;">
