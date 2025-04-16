@@ -77,15 +77,16 @@ A Flask-based e-commerce app with a shopping cart, item editing, and order submi
 <p align="center" style="width:100%; max-width:720px; margin:auto;">
 <img src="https://github.com/user-attachments/assets/c3861627-41a7-4d53-bc43-e30f18f9242e" style="width:100%; height:auto;">
 </p>
-
+<!--
 ## API RESTful [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/python_RESTful_API)
 This API allows dynamic querying, insertion, and updating of records across multiple database tables based on the request payload. By specifying the table name and relevant data in the payload, users can interact with specific tables using a single endpoint.
 
-# Hexagonal Architecture Template [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/hexagonal_architecture_template)
-This repo is designed to jump-start your next Software as a Service (SaaS) product using Hexagonal Architecture principles and Layered Architecture principles (In progress)
-
-# Tech Stack [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Tech_Stack)
+# Flask Tech Stack [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/Tech_Stack)
 This is my personal tech stack designed to be modular with scalable foundation for developing a wide range of on-cloud SaaS products using Layered (Clean) Architecture principles. 
+-->
+
+# Hexagonal Architecture Template [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/hexagonal_architecture_template)
+This Flask repo is designed to jump-start your next Software as a Service (SaaS) mvp using Hexagonal Architecture principles and Layered Architecture principles (In progress)
 
 # 📊 GitHub Stats:
 <table><tr><td valign="top" width="51.2%">
