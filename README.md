@@ -46,9 +46,11 @@ I am a software developer with 3 years of experience in software development and
 
 # 🚀 Projects developed
 ## Whatsapp Chatbot [![Roadmap](https://img.shields.io/badge/Flask_version-white?logo=Flask&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)  [![Roadmap](https://img.shields.io/badge/Django_version-white?logo=Django&logoColor=grey)](https://github.com/m1guel17/WhatsApp_Chatbot)
+<!--
 > [!NOTE]
 > Commissioned project
 >
+-->
 ​These repositories contain a Flask-based and a Django-based chatbot designed for integration with the WhatsApp Business API, facilitating automated messaging. The chatbots features a clean architecture pattern, allowing for scalability and customization to meet enterprise requirements. It includes functionalities such as seamless message handling and a structured project layout for efficient deployment. The conversation flow is managed through a JSON file, with plans to support configuration via block diagrams in the frontend in future updates.
 <!--
 <img src="https://github.com/user-attachments/assets/5fc7f5bd-e9d1-4e7d-8826-7a55a1d36ad1" style="width:100%; height:auto;">
@@ -60,9 +62,11 @@ I am a software developer with 3 years of experience in software development and
 
 
 ## Insurance Broker CRM & Policy Manager
+<!--
 > [!NOTE]
 > Commissioned project
 >
+-->
 ​This Django-based Insurance CRM and Policy Management web application is a robust, enterprise-grade solution tailored for mid-to-large insurance brokerages and solo brokers seeking a reliable, scalable platform. It centralizes policy lifecycle management, automates client communications via email and WhatsApp, and integrates lead tracking, claims handling, and document management into a unified, intuitive interface. Designed for operational resilience, the platform incorporates automated workflows, real-time alerts, and customizable dashboards to streamline daily operations. Its modular architecture allows for easy integration with third-party APIs and legacy systems, ensuring adaptability to evolving business needs.
 <!--
 -->
