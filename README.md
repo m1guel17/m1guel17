@@ -1,7 +1,7 @@
 # Hi there, I'm Miguel Esteban 👋
 ### Software Developer 👨‍💻
 
-I am a software developer with 3 years of experience in software development and design. I specialize in creating efficient and scalable solutions. With my background in consulting and advisory I bring a unique perspective to my software projects, understanding the critical need for accuracy, reliability, and performance in complex systems.
+I am a software developer with over 4 years of experience in designing and developing scalable, high-performance solutions. I combine technical knowledge with open and empathetic communication, adding value from initial analysis through delivery and post-implementation support. I enjoy learning new technologies and sharing knowledge, driving team innovation and the achievement of demanding goals.
 
 # 💻 Technologies Stack:
 <!-- 
