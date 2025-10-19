@@ -51,6 +51,15 @@ I am a software developer with 3 years of experience in software development and
 <br/>  
 
 # 🚀 Projects developed
+## Ophthalmology Procedure Management System
+Web application developed with Django 5.2 to manage ophthalmology procedures, patient follow-ups, and clinical workflows. It allows doctors to record cases, schedule and track procedures, and analyze performance metrics through an interactive dashboard. It incorporates user authentication, role-based access control, comprehensive patient management, diagnostics and procedures, as well as a dynamic calendar for appointments and automatic follow-ups (POD1, week 1, month 1). It includes a configuration module with online CRUDs, an analytical dashboard with KPIs, and CSV/PDF report export. The interface, based on Tabler UI, offers a modern and accessible experience, with support for the America/Lima time zone (UTC-5) and production-ready deployment with PostgreSQL.
+
+https://github.com/user-attachments/assets/f2d24400-0113-4a05-ad2d-c2384548610f
+
+
+
+
+
 ## Whatsapp Chatbot [![Roadmap](https://img.shields.io/badge/Flask_version-white?logo=Flask&logoColor=grey)](https://github.com/m1guel17/Whatsapp_Chatbot_v3)  [![Roadmap](https://img.shields.io/badge/Django_version-white?logo=Django&logoColor=grey)](https://github.com/m1guel17/WhatsApp_Chatbot)
 <!--
 > [!NOTE]
