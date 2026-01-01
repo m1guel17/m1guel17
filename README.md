@@ -50,6 +50,10 @@ I am a software developer with over 4 years of experience in designing and devel
 <br/>  
 
 # 🚀 Projects developed
+## Budget Tracker Django  [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)]([https://github.com/m1guel17/django_system](https://github.com/m1guel17/budget-tracker-django))
+This is a web application built with Django to manage personal finances, inspired by an advanced Excel budget. It allows you to record income, expenses, transfers, and card payments, manage accounts in PEN and USD with automatic conversion using a manual exchange rate per date, and set up budgets per period with income, expense, and savings (%) goals.
+It includes an interactive dashboard with KPIs and charts, a modern interface in Spanish, and support for recurring transactions. It is designed for a single user and uses SQLite for easy configuration.
+
 ## Business Quote Builder: From Client Quote to Project Delivery
 Quote Builder is a full-featured Django web app for Peruvian businesses to create, manage, and send professional client quotes. It supports multi-item quotes with automatic sequential numbering and IGV (18%) tax calculations, plus client management with SUNAT RUC validation and data retrieval. Quotes can be previewed and exported as polished PDFs (with company branding, logos, and item images). When a quote is approved, the system can automatically create a linked work project to track progress, status, and hours from planning through completion.
 
