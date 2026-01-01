@@ -50,7 +50,7 @@ I am a software developer with over 4 years of experience in designing and devel
 <br/>  
 
 # 🚀 Projects developed
-## Budget Tracker Django  [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)]([https://github.com/m1guel17/django_system](https://github.com/m1guel17/budget-tracker-django))
+## Budget Tracker Django [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/budget-tracker-django)
 This is a web application built with Django to manage personal finances, inspired by an advanced Excel budget. It allows you to record income, expenses, transfers, and card payments, manage accounts in PEN and USD with automatic conversion using a manual exchange rate per date, and set up budgets per period with income, expense, and savings (%) goals.
 It includes an interactive dashboard with KPIs and charts, a modern interface in Spanish, and support for recurring transactions. It is designed for a single user and uses SQLite for easy configuration.
 
