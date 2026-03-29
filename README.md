@@ -50,6 +50,10 @@ I am a software developer with over 4 years of experience in designing and devel
 <br/>  
 
 # 🚀 Projects developed
+## VoiceFlow Kanban [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/tasksAudio)
+VoiceFlow is a voice-driven task management web application that converts spoken input into structured tasks and organizes them in a Kanban-style workflow. Built with Django and JavaScript, it uses the browser’s Web Speech API for live transcription, applies custom parsing logic to identify actionable items from natural speech in Spanish, and stores task data locally for a fast and lightweight user experience. The platform combines a Django-based backend for routing, templates, and configuration with a dynamic frontend responsible for recording, task extraction, persistence, and task board interactions, showcasing a practical approach to blending backend architecture with interactive client-side functionality.
+
+
 ## Budget Tracker Django [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/budget-tracker-django)
 This is a web application built with Django to manage personal finances, inspired by an advanced Excel budget. It allows you to record income, expenses, transfers, and card payments, manage accounts in PEN and USD with automatic conversion using a manual exchange rate per date, and set up budgets per period with income, expense, and savings (%) goals.
 It includes an interactive dashboard with KPIs and charts, a modern interface in Spanish, and support for recurring transactions. It is designed for a single user and uses SQLite for easy configuration.
