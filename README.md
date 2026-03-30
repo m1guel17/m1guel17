@@ -49,19 +49,17 @@ I am a software developer with over 4 years of experience in designing and devel
 
 <br/>  
 
-# 🚀 Projects developed
+# Projects developed 🚀
 ## voiceTasks [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/voiceTasks)
 voiceTasks is a voice-driven task management web application that converts spoken input into structured tasks and organizes them in a Kanban-style workflow. Built with Django and JavaScript, it uses the browser’s Web Speech API for live transcription, applies custom parsing logic to identify actionable items from natural speech in Spanish, and stores task data locally for a fast and lightweight user experience. The platform combines a Django-based backend for routing, templates, and configuration with a dynamic frontend responsible for recording, task extraction, persistence, and task board interactions, showcasing a practical approach to blending backend architecture with interactive client-side functionality.
 
 https://github.com/user-attachments/assets/8a17afd3-9494-4f11-8fa9-97039261b0fa
 
-
-
 ## Budget Tracker Django [![Roadmap](https://img.shields.io/badge/Link2repo-white?logo=github&logoColor=grey)](https://github.com/m1guel17/budget-tracker-django)
 This is a web application built with Django to manage personal finances, inspired by an advanced Excel budget. It allows you to record income, expenses, transfers, and card payments, manage accounts in PEN and USD with automatic conversion using a manual exchange rate per date, and set up budgets per period with income, expense, and savings (%) goals.
 It includes an interactive dashboard with KPIs and charts, a modern interface in Spanish, and support for recurring transactions. It is designed for a single user and uses SQLite for easy configuration.
 
-## Business Quote Builder: From Client Quote to Project Delivery
+## Business Quote Builder
 Quote Builder is a full-featured Django web app for Peruvian businesses to create, manage, and send professional client quotes. It supports multi-item quotes with automatic sequential numbering and IGV (18%) tax calculations, plus client management with SUNAT RUC validation and data retrieval. Quotes can be previewed and exported as polished PDFs (with company branding, logos, and item images). When a quote is approved, the system can automatically create a linked work project to track progress, status, and hours from planning through completion.
 
 https://github.com/user-attachments/assets/a447d24e-993b-4173-945b-3a17a18d6b2a
